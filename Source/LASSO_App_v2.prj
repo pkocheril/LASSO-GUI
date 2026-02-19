@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="4282003620" file="/Users/pkocheril/Documents/MATLAB/Apps/LASSO_Unmixer/v2/LASSO_App_v2.prj" location="/Users/pkocheril/Documents/MATLAB/Apps/LASSO_Unmixer/v2" name="LASSO_App_v2" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="3182461074" file="/Users/pkocheril/Documents/MATLAB/Apps/LASSO_Unmixer/v2/LASSO_App_v2.prj" location="/Users/pkocheril/Documents/MATLAB/Apps/LASSO_Unmixer/v2" name="LASSO_App_v2" target="target.mlapps" target-name="Package App">
     <param.appname>LASSO_App_v2</param.appname>
     <param.authnamewatermark>Philip Kocheril</param.authnamewatermark>
     <param.email>pkocheri@caltech.edu</param.email>
@@ -17,8 +17,8 @@ Parameter file (as columns in a text/csv file: frequency, powers)
 
 OUTPUTS:
 Unmixed results, in the order of the input reference spectra (as a .tif)</param.description>
-    <param.screenshot>/private/var/folders/ts/q55xntkn1959twh886bg1qk80000gn/T/tp3e525246_3ef5_468a_b4f3_e04ad8c7a117.png</param.screenshot>
-    <param.version>1.1</param.version>
+    <param.screenshot>/private/var/folders/ts/q55xntkn1959twh886bg1qk80000gn/T/tpf7a4f203_e2ba_4d9b_9e4c_2c9cba6c63c5.png</param.screenshot>
+    <param.version>2.0</param.version>
     <param.products.name />
     <param.products.id />
     <param.products.version />
