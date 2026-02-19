@@ -30,6 +30,14 @@ To use the GUI as packaged, simply double-click on the installer (```.mlappinsta
 
 Alternatively, the source code can be extracted from the app code file (```.mlapp```) and converted into a traditional MATLAB script (```.m```) to be run with modifications as desired.
 
+### Expected times
+Installation and unmixing should be fast (<1 min).
+
+### Tested operating systems
+* macOS (v15.7.2)
+
+This code is also expected to work on Windows and Linux, as a MATLAB-installable sub-application.
+
 ## Usage
 After installation, the GUI can be launched from the Apps menu in the top banner of MATLAB. Demo data is provided to illustrate the expected file formatting and validate that the code is working.
 
