@@ -1,0 +1,22 @@
+# Ignore OS-specific files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# IDE/project settings
+.vscode/
+.idea/
+
